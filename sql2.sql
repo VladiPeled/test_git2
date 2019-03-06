@@ -1,2 +1,1 @@
-SELECT something, something6 from DB
-
+SELECT something, something5 from DB
